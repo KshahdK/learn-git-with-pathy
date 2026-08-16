@@ -1,0 +1,16 @@
+I learned the difference between Git and GitHub: Git is the local version control system running on my machine to track code history, GitHub is the cloud-based platform where I store, collaborate, and share those repositories.
+
+I also learned how to initialize and connect a project using Git Bash inside VS Code through the following commands:
+
+1. git init
+Initializes a new Git repository in the project folder via Git Bash.
+2. git add
+Stages all changes and files for the commit.
+3. git commit -m "message"
+Records a snapshot of the staged changes with a commit message.
+4. git branch -M main
+Renames the primary branch to main.
+5. git remote add origin <GitHub_URL>
+Points the local Git Bash repository to the remote GitHub URL.
+6. git push -u origin main
+Pushes the local commits up to the GitHub repository.
