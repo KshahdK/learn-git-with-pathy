@@ -14,3 +14,7 @@ Renames the primary branch to main.
 Points the local Git Bash repository to the remote GitHub URL.
 6. git push -u origin main
 Pushes the local commits up to the GitHub repository.
+
+------------------------
+   **I will make it.**
+------------------------
